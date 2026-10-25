@@ -1,0 +1,11 @@
+{
+  "Group": "VeinMining",
+  "Name": "VeinMining",
+  "Version": "${version}",
+  "Description": "Mine one ore block and the whole connected vein comes with it, using your pickaxe's normal drops and durability.",
+  "Authors": [
+    { "Name": "djsaintg" }
+  ],
+  "Main": "dev.veinmining.VeinMiningPlugin",
+  "ServerVersion": ">=0.7.4"
+}
